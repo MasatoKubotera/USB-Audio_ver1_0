@@ -128,7 +128,7 @@
                 <td>C5, C6</td>
                 <td>2</td>
                 <td>C1608C0G1H220J080AA</td>
-                <td><a href="https://www.mouser.jp/ProductDetail/TDK/C1608C0G1H220J080AA?qs=NRhsANhppD%2FvEAPMU6eN6g%3D%3D">Mouser</a></td>
+                <td><a href="https://www.mouser.jp/ProductDetail/810-C1608C0G1H220J">Mouser</a></td>
                 <td>Multilayer Ceramic Capacitors SMD/SMT 22pF 50V 5% 0603</td>
               </tr>
               <tr>
@@ -170,7 +170,7 @@
                 <td>FL1</td>
                 <td>1</td>
                 <td>BLM18SD220SN1D</td>
-                <td><a href="https://www.mouser.jp/ProductDetail/Murata-Electronics/BLM18SD220SN1D?qs=glnLrWX4TPq%2Fm8%2FdPQltLg%3D%3D">Mouser</a></td>
+                <td><a href="https://www.mouser.jp/ProductDetail/81-BLM18SD220SN1D">Mouser</a></td>
                 <td>Ferrite Beads 22 OHM 0603</td>
               </tr>
               <tr>
@@ -198,7 +198,7 @@
                 <td>LED1, LED2</td>
                 <td>2</td>
                 <td>150060VS86000</td>
-                <td><a href="https://www.mouser.jp/ProductDetail/Wurth-Elektronik/150060VS86000?qs=GedFDFLaBXGW9qOjzZ1Hmw%3D%3D">Mouser</a></td>
+                <td><a href="https://www.mouser.jp/ProductDetail/710-150060VS86000">Mouser</a></td>
                 <td>Standard LEDs - SMD Green 2V 20mA 573nm 0603</td>
               </tr>
               <tr>
@@ -212,7 +212,7 @@
                 <td>R1, R20</td>
                 <td>2</td>
                 <td>RC0603FR-101KL</td>
-                <td><a href="https://www.mouser.jp/ProductDetail/YAGEO/RC0603FR-101KL?qs=EiqXWrxQq63MM0wzm69ZKg%3D%3D">Mouser</a></td>
+                <td><a href="https://www.mouser.jp/ProductDetail/603-RC0603FR-101KL">Mouser</a></td>
                 <td>Thick Film Resistors - SMD 1 kOhms 100-200mW 1% 0603</td>
               </tr>
               <tr>
