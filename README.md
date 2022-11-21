@@ -191,7 +191,7 @@
                 <td>IC4</td>
                 <td>1</td>
                 <td>REG103GA-AG4</td>
-                <td><a href="https://www.mouser.jp/ProductDetail/Wurth-Elektronik/150060VS86000?qs=GedFDFLaBXGW9qOjzZ1Hmw%3D%3D">Mouser</a></td>
+                <td><a href="https://www.mouser.jp/ProductDetail/595-REG103GA-AG4">Mouser</a></td>
                 <td>LDO Voltage Regulators DMOS 500mA LDO Reg</td>
               </tr>
               <tr>
