@@ -1,0 +1,32 @@
+Partlist exported from C:/Users/Masato/Documents/EAGLE/projects/USB-Audio_ver1_0/USB-Audio_ver_1_0.sch at 2022/11/11 22:42
+
+Qty Value               Device              Package        Parts                           Description                
+2                       LEDSML0603          SML0603        LED1, LED2                      LED                        
+1   0.1u                C-USC1608           C1608          C24                             CAPACITOR, American symbol 
+1   1.5k                R-US_R0603          R0603          R4                              RESISTOR, American symbol  
+3   100                 R-US_R0603          R0603          R11, R12, R13                   RESISTOR, American symbol  
+2   10u                 C-USC1608           C1608          C14, C23                        CAPACITOR, American symbol 
+4   12k                 R-US_R0603          R0603          R8, R10, R14, R15               RESISTOR, American symbol  
+1   13k                 R-US_R0603          R0603          R5                              RESISTOR, American symbol  
+3   1800p               C-USC1608           C1608          C11, C19, C20                   CAPACITOR, American symbol 
+2   18k                 R-US_R0603          R0603          R18, R19                        RESISTOR, American symbol  
+1   1M                  R-US_R0603          R0603          R7                              RESISTOR, American symbol  
+2   1k                  R-US_R0603          R0603          R1, R20                         RESISTOR, American symbol  
+8   1u                  C-USC1608           C1608          C1, C2, C3, C4, C7, C8, C9, C25 CAPACITOR, American symbol 
+2   22                  R-US_R0603          R0603          R2, R3                          RESISTOR, American symbol  
+2   22p                 C-USC1608           C1608          C5, C6                          CAPACITOR, American symbol 
+1   27k                 R-US_R0603          R0603          R6                              RESISTOR, American symbol  
+3   3.9k                R-US_R0603          R0603          R9, R16, R17                    RESISTOR, American symbol  
+3   330p                C-USC1608           C1608          C12, C17, C18                   CAPACITOR, American symbol 
+1   BLM18SD220SN1D      BLM18SD220SN1D      BLM18SD220SN1D FL1                                                        
+2   C9767BB422LFP       C9767BB422LFP       C9767BB422LFP  MIC1, MIC2                                                 
+2   CG0603MLC-05E       CG0603MLC-05E       CG0603MLC-05E  D1, D2                                                     
+1   FA-238V12.0000MB-K3 FA-238V12.0000MB-K3 FA238V         CR1                                                        
+1   MF-MSMF050          MF-MSMF050          MF-MSMF050     F1                                                         
+1   MINI_USB_B_SMD      MINI_USB_B_SMD      MINI_USB_B_SMD USB1                                                       
+2   OPA2353UA           OPA2353UA           OPA2353UA      IC2, IC3                                                   
+1   PCM2904DB           PCM2904DB           PCM2904DB      IC1                                                        
+1   RB520SM-30T2R       RB520SM-30T2R       SOD-523-2      D3                                                         
+1   REG103GA-A          REG103GA-A          SOT223-5       IC4                                                        
+1   S2B-XH-A            S2B-XH-A            S2B-XH-A       CH1                                                        
+6   UMW1V100MDD         UMW1V100MDD         UMW1V100MDD    C10, C13, C15, C16, C21, C22                               
